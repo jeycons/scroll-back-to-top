@@ -13,3 +13,7 @@ Go to the top of the web page
 Scroll to the top of the page when the button is clicked
 
 Write in pure JavaScript rather than J-Query
+
+## DEMO
+
+<https://jeycons.github.io/scroll-back-to-top/>
